@@ -29,6 +29,9 @@
   <a href="https://steamcommunity.com/id/Cosmictotem/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="40" />
   </a>
+  <a href="https://open.spotify.com/user/12185423343" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" />
+  </a>
 </p>
 
 ## 🛠 Skills & Expertise
@@ -40,6 +43,7 @@
 | SQL          | Great, but not expert |
 | HTML & CSS   | Learning |
 
+##
 
 ## 🎨 Art Portfolio & Commissions  
 
@@ -48,6 +52,7 @@ I create digital art and take commissions! Check out my portfolio here:
 
 For commissions, feel free to contact me!
 
+##
 
 <!--
 **Ran-L0g/Ran-L0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
