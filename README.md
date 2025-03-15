@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jorge Andrés Beltrán (Ran for short, from my last name)</h1>
-<h3 align="center">Digital artist and IT Student at UANDES.</h3>
+## <h1 align="center">Hi 👋, I'm Jorge Andrés Beltrán (Ran for short, from my last name)</h1>
+## <h3 align="center">Digital artist and IT Student at UANDES.</h3>
+
+##
 
 - 💻 IT Student in: **Universidad De Los Andes / Chile.**
 
@@ -19,7 +21,7 @@
 
 - ⚡ Fun fact 2: **I made $1035 usd in a month by drawing, that's my current record*.*
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/jabaranc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
