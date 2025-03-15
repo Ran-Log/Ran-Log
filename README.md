@@ -5,8 +5,8 @@
 📚 Currently learning [General Programming Languages (Python, C++)]  
 🎯 Current goal: [Finish Studying / Make a living of art]  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmiczenith&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiczenith&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ran-l0g&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ran-l0g&layout=compact&theme=radical)
 
 <!--
 **Ran-L0g/Ran-L0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
