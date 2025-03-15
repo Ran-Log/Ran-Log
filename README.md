@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jorge Andrés Beltrán (Ran for short, from my last name)</h1>
 <h3 align="center">Digital artist and IT Student at UANDES.</h3>
 
-- 💻 IT Student in [Universidad De Los Andes / Chile]  
+- 💻 IT Student in: **Universidad De Los Andes / Chile.**
 
-- 🚀 Passionate about [Art, Videogames, Music and Reading]  
+- 🚀 Passionate about: **Art, Videogames, Music and Reading.**
 
-- 🎯 Current goal: [Finish College]  
+- 🎯 Current goal: **Finish College / University.**
 
-- 🔭 I’m currently working on **Hobbyist Digital Artist**
+- 🔭 I’m currently working on: **Hobbyist Digital Artist.**
 
-- 🐟 Pronouns: **I don't care about them, call me how you want**
+- 🐟 Pronouns: **I don't care about them, call me how you want.**
 
-- 🌱 I’m currently learning **General Programming Languages and Japanese**
+- 🌱 I’m currently learning: **General Programming Languages and Japanese.**
 
-- 📫 How to reach me **jabeltran@miuandes.cl**
+- 📫 How to reach me: **jabeltran@miuandes.cl**
 
-- ⚡ Fun fact 1: My dad called logs / stumps his sons once, so that's why my username has Log on it
+- ⚡ Fun fact 1: **My dad called logs / stumps his sons once, so that's why my username has Log on it.**
 
-- ⚡ Fun fact 2: I made $1035 usd in a month by drawing, that's my current record
+- ⚡ Fun fact 2: **I made $1035 usd in a month by drawing, that's my current record*.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
