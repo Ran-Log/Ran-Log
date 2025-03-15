@@ -23,6 +23,16 @@
   </a>
 </p>
 
+### 🛠 Skills & Expertise
+
+| Skill         | Level  |
+|--------------|--------|
+| Python       | ![Python](https://progress-bar.dev/60/) |
+| C++          | ![C++](https://progress-bar.dev/50/)  |
+| SQL          | ![SQL](https://progress-bar.dev/80/)  |
+| HTML & CSS   | ![HTML & CSS](https://progress-bar.dev/0/)  |
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
