@@ -17,8 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/jabaranc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jabaranc" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/Cosmictotem/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="40">
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="40"></a>
 
 </a>
 
