@@ -29,7 +29,7 @@
   </a>
 </p>
 
-### 🛠 Skills & Expertise
+## 🛠 Skills & Expertise
 
 | Skill         | Level  |
 |--------------|--------|
