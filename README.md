@@ -19,8 +19,6 @@
 
 - ⚡ Fun fact 1: **My dad called wood logs / stumps his sons once, so that's why my username has Log on it.**
 
-- ⚡ Fun fact 2: **I made $1035 usd in a month by drawing, that's my current record.**
-
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/jabaranc" target="blank">
