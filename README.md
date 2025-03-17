@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **jabeltran@miuandes.cl**
 
-- ⚡ Fun fact 1: **My dad called wood logs / stumps his sons once, so that's why my username has Log on it.**
+- ⚡ Fun fact: **My dad called wood logs / stumps his sons once, so that's why my username has Log on it.**
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
